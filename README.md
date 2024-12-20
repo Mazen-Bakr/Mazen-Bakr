@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mazen Mohamed</h1>
 <h3 align="center">A passionate Android developer</h3>
 
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300"/>  
+</div>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazen-bakr" alt="mazen-bakr" /></a> </p>
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 📫 How to reach me **mazenbakr39@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazen-bakr&show_icons=true&locale=en" alt="mazen-bakr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazen-bakr&" alt="mazen-bakr" /></p>
+
